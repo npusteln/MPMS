@@ -4,18 +4,17 @@ Application to image segmentation and depth map disparity.
 
 
 ***************************************************************************
-* author: Nelly Pustelnik   (nelly.pustelnik@ens-lyon.fr)                 *
-* institution: CNRS, laboratoire de Physique de l'ENS de Lyon             *
-* date: Saturday, October 30 2010                                         *
-* License CeCILL-B                                                        *                                                                                 
-* Contributors :                                                          *
-* Laurent Condat (laurent.condat@gipsa-lab.grenoble-inp.fr)               *
-*                                                                         *                                                      
-***************************************************************************
+* author: Nelly Pustelnik   (nelly.pustelnik@ens-lyon.fr) 
+CNRS, laboratoire de Physique de l'ENS de Lyon  
+* Contributor :  Laurent Condat (laurent.condat@gipsa-lab.grenoble-inp.fr)       
+* date: Saturday, October 30 2010        
+* License CeCILL-B                                                                            
+                                                  
+
 *********************************************************
-* RECOMMENDATIONS:                                   	*
-* This toolbox is designed to work with Matlab 2017.b   *
-*********************************************************
+* RECOMMENDATIONS:                               
+* This toolbox is designed to work with Matlab 2017.b  
+
 
 ------------------------------------------------------------------------------------------------------------------------
 DESCRIPTION:
