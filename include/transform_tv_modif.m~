@@ -1,0 +1,12 @@
+function p = transform_tv_modif(theta,param,f1)
+
+p = zeros(2,param.c,param.n, param.m,param.K-1);
+theta = reshape(theta,param.n,param.m,param.c,param.K-1);
+p(:,:,:,:,1) = f1.dir_op(1- theta(:,:,:,1));
+for k=1:param.K-1
+    p(:,:,:,:,k) = f1.dir_op(theta(:,:,:,k) -theta(:,:,:,k+1));
+end
+p = reshape(p,2,param.c, param.M,param.K-1);
+
+
+
