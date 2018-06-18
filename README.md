@@ -27,9 +27,8 @@ In this work, we show how to compute the proximity operator of a sum of two
 graph structure. The gain provided by avoiding unnecessary splitting is 
 illustrated by an application to image segmentation and depth map estimation. 
 
-
- How to run
-============
+------------------------------------------------------------------------------------------------------------------------
+HOW TO RUN:
 
  1. compile the mex files :
 cd include/
@@ -46,8 +45,8 @@ The main function is "algo_MPMS".
 ------------------------------------------------------------------------------------------------------------------------
 RELATED PUBLICATION:
 
-# N. Pustelnik, L. Condat, Proximity operator of a sum of functions;
-% Application to depth map estimation, IEEE Signal Processing Letters,
-% vol. 24, no. 12, Dec. 2017
+N. Pustelnik, L. Condat, Proximity operator of a sum of functions;
+Application to depth map estimation, IEEE Signal Processing Letters,
+vol. 24, no. 12, Dec. 2017
 
 ------------------------------------------------------------------------------------------------------------------------
