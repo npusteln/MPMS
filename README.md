@@ -9,8 +9,8 @@ Application to image segmentation and depth map disparity.
 * date: Saturday, October 30 2010                                         *
 * License CeCILL-B                                                        *
 *                                                                         *             
-% Contributors :                                                          *
-% Laurent Condat (laurent.condat@gipsa-lab.grenoble-inp.fr)               *
+* Contributors :                                                          *
+* Laurent Condat (laurent.condat@gipsa-lab.grenoble-inp.fr)               *
 *                                                                         *                                                      
 ***************************************************************************
 *********************************************************
